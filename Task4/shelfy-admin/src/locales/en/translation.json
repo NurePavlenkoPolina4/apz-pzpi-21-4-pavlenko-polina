@@ -1,0 +1,20 @@
+{
+  "language": "EN",
+  "log in to": "Log In to",
+  "login": "Log In",
+  "Enter email": "Enter email",
+  "Enter password": "Enter password",
+  "Log Out": "Log Out",
+  "User was deleted successfully!": "User was deleted successfully!",
+  "Couldn't delete user. Something went wrong.": "Couldn't delete user. Something went wrong.",
+  "User role was updated successfully!": "User role was updated successfully!",
+  "Couldn't update user role. Something went wrong.": "Couldn't update user role. Something went wrong.",
+  "User Management": "User Management",
+  "Name": "Name",
+  "Email": "Email",
+  "Role": "Role",
+  "Action": "Action",
+  "Delete": "Delete",
+  "User": "User",
+  "Admin": "Admin"
+}

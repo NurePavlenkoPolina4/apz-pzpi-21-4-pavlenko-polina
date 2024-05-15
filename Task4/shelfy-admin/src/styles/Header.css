@@ -1,0 +1,25 @@
+.header {
+  width: 100%;
+  display: grid;
+  grid-template-columns:  1fr 0.1fr;
+  align-items: center;
+}
+.logo {
+  color: #b996d4;
+  font-size: 30px;
+  font-weight: 600;
+  justify-self: center;
+  
+}
+.language{
+  border: none;
+  font-size: 18px;
+  background-color: transparent;
+  cursor: pointer;
+  grid-column-start: 2;
+  margin-right: 10%;
+}
+.language:hover{
+  color: #b996d4;
+  transition-duration: 0.2s;
+}
