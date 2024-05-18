@@ -1,0 +1,20 @@
+{
+  "language": "УКР",
+  "log in to": "Вхід у",
+  "login": "Вхід",
+  "Enter email": "Електронна пошта",
+  "Enter password": "Пароль",
+  "Log Out": "Вийти",
+  "User was deleted successfully!": "Користувача було успішно видалено!",
+  "Couldn't delete user. Something went wrong.": "Помилка при видаленні користувача. Щось пішло не так.",
+  "User role was updated successfully!": "Роль користувача успішно оновлено!",
+  "Couldn't update user role. Something went wrong.": "Помилка при оновленні ролі користувача. Щось пішло не так.",
+  "User Management": "Управління Користувачами",
+  "Name": "Ім'я",
+  "Email": "Електронна адреса",
+  "Role": "Роль",
+  "Action": "Дія",
+  "Delete": "Видалити",
+  "User": "Користувач",
+  "Admin": "Адміністратор"
+}
